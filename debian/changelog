@@ -1,3 +1,9 @@
+nautilus-lxsplit (0.0.2.1-1ubuntu0) wily; urgency=medium
+
+  * Ported to wily
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 06 Feb 2016 13:26:32 +0100
+
 nautilus-lxsplit (0.0.2.0-1ubuntu0) vivid; urgency=medium
 
   * Added notifications 
