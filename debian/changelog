@@ -1,0 +1,11 @@
+nautilus-lxsplit (0.0.2.0-1ubuntu0) vivid; urgency=medium
+
+  * Added notifications 
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 09 Oct 2015 10:52:34 +0200
+
+nautilus-lxsplit (0.0.1.0-1ubuntu0) vivid; urgency=low
+
+  * First release
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 09 Oct 2015 10:12:32 +0200
