@@ -1,3 +1,9 @@
+nautilus-lxsplit (0.3.0-0extras16.04.0) xenial; urgency=medium
+
+  * updated icon
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 18 Dec 2016 20:55:01 +0100
+
 nautilus-lxsplit (0.0.2.1-1ubuntu0) wily; urgency=medium
 
   * Ported to wily
@@ -6,7 +12,7 @@ nautilus-lxsplit (0.0.2.1-1ubuntu0) wily; urgency=medium
 
 nautilus-lxsplit (0.0.2.0-1ubuntu0) vivid; urgency=medium
 
-  * Added notifications 
+  * Added notifications
 
  -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 09 Oct 2015 10:52:34 +0200
 

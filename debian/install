@@ -1,0 +1,2 @@
+src/nautilus-lxsplit.py /usr/share/nautilus-python/extensions
+data/nautilus-lxsplit.svg /usr/share/icons/gnome/scalable/apps
